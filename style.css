@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+ul{
+    text-align: end;
+    padding: 10px;
+    list-style: none;
+    
+    background-color: #000000;
+    color: white;
+}
+li{
+    display: inline;
+    padding: 50px;
+}
